@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - [x] [Find me on LinkedIn](www.linkedin.com/in/justin-seah-3773a9229)
+  - [x] LinkedIn: <www.linkedin.com/in/justin-seah-3773b421o>
 
 <!---
 speaklouderplease/speaklouderplease is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @speaklouderplease aka Justin
 - 👀 I’m interested in computer hardware, games, history and anime!
 - 🌱 I’m currently studying computer engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate here on GitHub...
 - 📫 How to reach me 
   - [x] LinkedIn: <www.linkedin.com/in/justin-seah-3773b421o>
 

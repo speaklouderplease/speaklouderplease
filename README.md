@@ -1,6 +1,6 @@
 ### Welcome to my homepage!
 - 👋 Hi, I’m @speaklouderplease aka Justin
-- 👀 I’m interested in computer hardware, games, history and anime!
+- 👀 I’m interested in IT, computer hardware, video games, military history and Japanese culture!
 - 🌱 I’m currently studying computer engineering
 - 💞️ I’m looking to collaborate here on GitHub...
 - 📫 How to reach me 
